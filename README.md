@@ -1,5 +1,5 @@
-Bahubali - A Gemini-Powered Voice Assistant
-This is a simple, Python-based voice assistant named "Bahubali." It uses the speech_recognition library to listen to your voice and Google's powerful Gemini 1.5 Flash model to understand and respond to complex questions.
+Igris - A Gemini-Powered Voice Assistant
+This is a simple, Python-based voice assistant named "Igris." It uses the speech_recognition library to listen to your voice and Google's powerful Gemini 1.5 Flash model to understand and respond to complex questions.
 
 🚀 Features
 Voice-Activated: Listens for voice commands.
